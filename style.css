@@ -1,0 +1,44 @@
+.heading{
+    margin: 10px ;
+    border: 10px solid black;
+    padding: 50px 50px 50px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+    text-align: center;
+}
+.card-img-top{
+    display: inline-block;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%; } 
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+   padding: 10px;
+}
+.btn-clr{
+    background-color: red;
+    color: white;
+    
+}
+.squre{
+    margin: 10px ;
+    padding: 50px 50px 50px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p {
+    text-align: center;
+}
+.row {
+    border: 1px solid !important;
+    margin: 10px !important;
+    align-items: center;
+}
